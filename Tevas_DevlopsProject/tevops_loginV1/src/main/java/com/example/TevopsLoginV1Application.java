@@ -17,7 +17,7 @@ public class TevopsLoginV1Application {
 
     @GetMapping("/GetMessage")
     public String getMessage() {
-
+        System.out.println("Hello GF Ji Kaise Ho.........");
         return "Hello Rakesh! Welcome to Spring Boot Project.";
     }
 }
