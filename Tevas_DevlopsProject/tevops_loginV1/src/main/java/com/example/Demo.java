@@ -9,6 +9,8 @@ public class Demo {
 		System.out.println("Hello Ji.....");
 		System.out.println("Hi Rakesh.........");		
 		System.out.println("Hi Samira.........");
+		System.out.println("Hi Samira.........");
+		System.out.println("Hi Samira.........");
 		System.out.println("Hi Waseem.........");
 		System.out.println("Hi Waseem.........");
 		System.out.println("Hi Waseem.........");
