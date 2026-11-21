@@ -15,6 +15,8 @@ public class Demo {
 		System.out.println("Hi Waseem.........");
 		System.out.println("Hi Waseem.........");
 		System.out.println("Hi Waseem.........");
+		System.out.println("Hi Dilip.........");
+		System.out.println("Hi Dilip.........");
 
 	}
 }
