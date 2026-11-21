@@ -7,6 +7,8 @@ public class Demo {
 
 	public void m12() {
 		System.out.println("Hello Ji.....");
-		System.out.println("Hi Rakesh.........");
+		System.out.println("Hi Rakesh.........");		
+		System.out.println("Hi Samira.........");
+
 	}
 }
